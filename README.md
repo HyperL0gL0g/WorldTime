@@ -8,13 +8,11 @@
 A new Flutter application.This application gives you the current time for the selected city with dynamic background based on day/night !
 
 #  :camera: Screen-shot:
-<p align="center">
-  <img width="460" height="800" src="https://github.com/logicinfinite/WorldTime/blob/master/list.jpeg">
-</p>
 
-<p align="center">
-  <img width="460" height="800" src="https://github.com/logicinfinite/WorldTime/blob/master/home.jpeg">
-</p>
+List of countries          | Current place and time 
+:-------------------------:|:-------------------------:
+![](https://github.com/logicinfinite/WorldTime/blob/master/list.jpeg)  |  ![](https://github.com/logicinfinite/WorldTime/blob/master/home.jpeg)
+
 
  ---
 
