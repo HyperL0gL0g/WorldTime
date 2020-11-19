@@ -3,13 +3,14 @@
 </p>
 
 
-# world_time
+# **world_time**
 
 A new Flutter application.This application gives you the current time for the selected city with dynamic background based on day/night !
+This repo is a part of the flutter beginner series .
 
-#  :camera: Screen-shot:
+#  :camera: Screen-shots:
 
-List of countries          | Current place and time 
+List of places         | Current place and time 
 :-------------------------:|:-------------------------:
 ![](https://github.com/logicinfinite/WorldTime/blob/master/list.jpeg)  |  ![](https://github.com/logicinfinite/WorldTime/blob/master/home.jpeg)
 
